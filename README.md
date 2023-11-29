@@ -12,7 +12,7 @@ Hello! I'm Xisco Lupiañez, a student of Multiplatform Application Development (
 
 ## Featured Projects
 
-##Example website :(https://xlupicomas.github.io/Entornos/HTML/actividad20/)
+### Example website :(https://xlupicomas.github.io/Entornos/HTML/actividad20/)
 this website is an activity of my first trimester in DAM.
 
 ## Skills
