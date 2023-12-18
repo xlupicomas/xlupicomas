@@ -17,7 +17,7 @@ this website is an activity of my first trimester in DAM.
 
 ## Skills
 
-- **studies:** bachelor's degree at Madina Mayurqa Institute.
+- **studies:** bachillerato at Madina Mayurqa Institute.
 - **languages** Spanish, English, Catalan.
 - **Programming Languages:** Python, Java.
 - **Web Development:** HTML, CSS.
